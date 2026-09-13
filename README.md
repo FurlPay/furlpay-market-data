@@ -1,5 +1,8 @@
 # @furlpay/market-data
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+
 Real-time stock/ETF market data for [FurlPay](https://furlpay.com) — a thin,
 zero-dependency aggregator over **Alpha Vantage** and **Nasdaq Data Link** with a
 deterministic **demo fallback**. It powers live prices in the FurlPay dashboard
